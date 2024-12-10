@@ -1,0 +1,13 @@
+# compile verilog/system verilog design source files
+sv xil_defaultlib  \
+"../../../../Dsd_exam.srcs/sources_1/new/counter_4bita.sv" \
+"../../../../Dsd_exam.srcs/sources_1/new/d_flipflop.sv" \
+"../../../../Dsd_exam.srcs/sources_1/new/d_latch_asyn_rstn.sv" \
+"../../../../Dsd_exam.srcs/sources_1/new/mux2x1.sv" \
+"../../../../Dsd_exam.srcs/sim_1/new/tb_counter_4bita.sv" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

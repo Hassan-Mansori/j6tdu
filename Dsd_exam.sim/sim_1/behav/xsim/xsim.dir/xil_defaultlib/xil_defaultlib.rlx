@@ -1,0 +1,12 @@
+0.6
+2019.1
+May 24 2019
+14:51:52
+/home/it/Desktop/Courses/NSH_Courses/Digital_System_Design/Dsd_exam/Dsd_exam.sim/sim_1/behav/xsim/glbl.v,1558713910,verilog,,,,glbl,,,,,,,,
+/home/it/Desktop/Courses/NSH_Courses/Digital_System_Design/Dsd_exam/Dsd_exam.srcs/sim_1/new/tb_counter_4bit.sv,1733815368,systemVerilog,,,,tb_counter_4bit,,,,,,,,
+/home/it/Desktop/Courses/NSH_Courses/Digital_System_Design/Dsd_exam/Dsd_exam.srcs/sim_1/new/tb_counter_4bita.sv,1733819219,systemVerilog,,,,tb_counter_4bita,,,,,,,,
+/home/it/Desktop/Courses/NSH_Courses/Digital_System_Design/Dsd_exam/Dsd_exam.srcs/sources_1/new/counter_4bit.sv,1733815283,systemVerilog,,/home/it/Desktop/Courses/NSH_Courses/Digital_System_Design/Dsd_exam/Dsd_exam.srcs/sim_1/new/tb_counter_4bit.sv,,counter_4bit,,,,,,,,
+/home/it/Desktop/Courses/NSH_Courses/Digital_System_Design/Dsd_exam/Dsd_exam.srcs/sources_1/new/counter_4bita.sv,1733818594,systemVerilog,,/home/it/Desktop/Courses/NSH_Courses/Digital_System_Design/Dsd_exam/Dsd_exam.srcs/sources_1/new/d_flipflop.sv,,counter_4bita,,,,,,,,
+/home/it/Desktop/Courses/NSH_Courses/Digital_System_Design/Dsd_exam/Dsd_exam.srcs/sources_1/new/d_flipflop.sv,1733816676,systemVerilog,,/home/it/Desktop/Courses/NSH_Courses/Digital_System_Design/Dsd_exam/Dsd_exam.srcs/sources_1/new/d_latch_asyn_rstn.sv,,d_flipflop,,,,,,,,
+/home/it/Desktop/Courses/NSH_Courses/Digital_System_Design/Dsd_exam/Dsd_exam.srcs/sources_1/new/d_latch_asyn_rstn.sv,1733819174,systemVerilog,,/home/it/Desktop/Courses/NSH_Courses/Digital_System_Design/Dsd_exam/Dsd_exam.srcs/sources_1/new/mux2x1.sv,,d_latch_asyn_rstn,,,,,,,,
+/home/it/Desktop/Courses/NSH_Courses/Digital_System_Design/Dsd_exam/Dsd_exam.srcs/sources_1/new/mux2x1.sv,1733818644,systemVerilog,,/home/it/Desktop/Courses/NSH_Courses/Digital_System_Design/Dsd_exam/Dsd_exam.srcs/sim_1/new/tb_counter_4bita.sv,,mux2x1,,,,,,,,
